@@ -58,7 +58,7 @@ Or use this direct link:
 <img width="1534" height="907" alt="image" src="https://github.com/user-attachments/assets/684e692f-be9b-4092-8088-929cb99d7947" />
 
 
-After adding screenshot inside assets folder:
+
 
 ```markdown
 ![App Screenshot](assets/app_screenshot.png)
