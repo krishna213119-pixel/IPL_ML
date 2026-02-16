@@ -1,26 +1,31 @@
 # 🏏 IPL Winner Predictor  
 
-[![Streamlit App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://ks3shq7qi64apg6wznuccc.streamlit.app/)
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://ks3shq7qi64apg6wznuccc.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![ML Model](https://img.shields.io/badge/Model-Logistic%20Regression-purple?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Cloud-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 ---
 
 ## 📌 About The Project
 
-This is an IPL-themed Machine Learning web application that predicts the winner of an IPL match using Logistic Regression.
+IPL-themed Machine Learning web application that predicts IPL match winners using **Logistic Regression**.
 
-The UI is designed like an IPL stadium with:
+Designed with a professional cricket-stadium inspired UI:
 
-- 🏟️ Cricket pitch layout
-- 🏆 Trophy-style winner card
-- 📊 Scoreboard probability bars
-- 🎨 Team-colored accents
-- 🖼️ Offline team logos
+- 🏟️ Pitch-themed layout  
+- 🏆 Trophy-style winner card  
+- 📊 Win probability scoreboard  
+- 🎨 Team-colored accents  
+- 🖼️ Offline team logos  
+- 🌍 Fully deployed  
 
 ---
 
 ## 🚀 Live Demo
 
-Click the big green badge above to try the app.
+Click the green badge at the top 👆  
 
 Or use this direct link:
 
@@ -28,23 +33,32 @@ Or use this direct link:
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Model Information
 
-- Python
-- Streamlit
-- Scikit-Learn
-- Pandas
-- Joblib
-- Git & GitHub
-
----
-
-## 📂 Project Structure
-
+- Algorithm: Logistic Regression  
+- Encoding: One-Hot Encoding  
+- Scaling: StandardScaler  
+- Target: Match Winner  
+- Deployment: Streamlit Cloud  
 
 ---
 
-## 👨‍💻 Author
+## 📊 Features
 
-Krishna 🚀  
-Aspiring AI Engineer
+- Real-time winner prediction  
+- Probability scoreboard (Top 3 teams)  
+- IPL-stadium themed UI  
+- Offline logo support  
+- Fully Git-controlled project  
+
+---
+
+## 🖼 Application Preview
+
+(Add screenshot here)
+
+After adding screenshot inside assets folder:
+
+```markdown
+![App Screenshot](assets/app_screenshot.png)
+
