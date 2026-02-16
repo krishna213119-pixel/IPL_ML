@@ -40,3 +40,11 @@ Or use this direct link:
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 👨‍💻 Author
+
+Krishna 🚀  
+Aspiring AI Engineer
