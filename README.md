@@ -60,6 +60,4 @@ Or use this direct link:
 
 
 
-```markdown
-![App Screenshot](assets/app_screenshot.png)
 
