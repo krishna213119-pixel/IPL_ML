@@ -57,31 +57,6 @@ Or use this direct link:
 
 <img width="1534" height="907" alt="image" src="https://github.com/user-attachments/assets/684e692f-be9b-4092-8088-929cb99d7947" />
 
-📁 Project Structure
-
-
-IPL-Winner-Predictor/
-│
-├── main.py                  # Streamlit application
-├── IPL_project.ipynb        # Model training notebook
-├── matches.csv              # Dataset
-├── ipl_model.pkl            # Trained ML model
-├── season_scaler.pkl        # StandardScaler object
-├── x_cols.pkl               # Feature column order
-├── requirements.txt         # Required dependencies
-│
-└── assets/
-    ├── ipl_logo.png
-    ├── csk.png
-    ├── mi.png
-    ├── rcb.png
-    ├── kkr.png
-    ├── rr.png
-    ├── srh.png
-    ├── dc.png
-    ├── pbks.png
-    ├── gt.png
-    └── lsg.png
 
 
 
